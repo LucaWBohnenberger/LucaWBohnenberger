@@ -2,6 +2,8 @@
   <h2>Hey there! I'm Luca WB.</h2>
 </div>
 
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_bohnenberger?igsh=bTk0cnVkZ2ZwbXho)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-wolffenb%C3%BCttel-bohnenberger-786016318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 <div align="center">
