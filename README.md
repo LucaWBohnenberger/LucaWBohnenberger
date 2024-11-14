@@ -26,5 +26,5 @@
 </div><br/>
 
 <p style="font-size: 12pt;">
-  Tech enthusiast and currently focused on my SE studies at PUCRS
+  Tech enthusiast and currently focused on my DS studies at PUCRS
 </p>
