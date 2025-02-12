@@ -2,7 +2,7 @@
   <h2>Hey there! I'm Luca W.B.</h2>
 </div>
 
-- 👨‍💻 My portfolio [lucawb.com](https://www.lucawb.com/)
+- 👨‍💻 My personal website [lucawb.com](https://www.lucawb.com/)
 
 - 📫 How to reach me **l.bohnenberger002@edu.pucrs.br**
 
