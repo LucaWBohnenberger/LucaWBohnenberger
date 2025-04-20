@@ -54,9 +54,9 @@ I'm passionate about solving real-world problems with data. Currently studying D
 <details>
   <summary>📂 My Repositories</summary>
   
-  - 🔗 [**Degrees of Separation**](https://github.com/LucaWBohnenberger/Degrees-of-separation){:target="_blank"} : Graph algorithms for connection discovery 
-  - 📎 [**PageRank**](https://github.com/LucaWBohnenberger/PageRank){:target="_blank"}: Ranking entities with Markov Chains
-  - 🤖 [**ChatFinance**](https://github.com/LucaWBohnenberger/ChatFinance){:target="_blank"}: Chatbot project using OpenAI, capable of retrieving financial data for assets like PETR4.
+  - 🔗 [**Degrees of Separation**](https://github.com/LucaWBohnenberger/Degrees-of-separation): Graph algorithms for connection discovery 
+  - 📎 [**PageRank**](https://github.com/LucaWBohnenberger/PageRank): Ranking entities with Markov Chains
+  - 🤖 [**ChatFinance**](https://github.com/LucaWBohnenberger/ChatFinance): Chatbot project using OpenAI, capable of retrieving financial data for assets like PETR4.
 </details>
 
 ---
