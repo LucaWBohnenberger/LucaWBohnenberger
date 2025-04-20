@@ -45,9 +45,10 @@ I'm passionate about solving real-world problems with data. Currently studying D
 <details>
   <summary>📊 My Stats</summary>
   <div align="center">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucaWBohnenberger&show_icons=true&theme=tokyonight" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaWBohnenberger&layout=compact&theme=tokyonight" />
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucaWBohnenberger&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucaWBohnenberger&show_icons=true&theme=tokyonight&cache_seconds=20" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaWBohnenberger&layout=compact&theme=tokyonight&cache_seconds=20" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=LucaWBohnenberger&theme=tokyonight&cache_seconds=20"/>
+
   </div>
 </details>
 
