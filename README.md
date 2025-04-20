@@ -1,15 +1,14 @@
-
 <div align="center">
   <h1>👋 Hey! I'm Luca W.B.</h1>
   <p>📊 Data Science & AI Student | 📐 Math Enthusiast | ⚙️ Tech Explorer</p>
 
-  <a href="https://www.lucawb.com">
+  <a href="https://www.lucawb.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-lucawb.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:l.bohnenberger002@edu.pucrs.br">
+  <a href="mailto:l.bohnenberger002@edu.pucrs.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-l.bohnenberger002@edu.pucrs.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/luca-wolffenb%C3%BCttel-bohnenberger-786016318/">
+  <a href="https://www.linkedin.com/in/luca-wolffenb%C3%BCttel-bohnenberger-786016318/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Luca%20W.B.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -43,7 +42,6 @@ I'm passionate about solving real-world problems with data. Currently studying D
 
 ### 📈 GitHub Highlights
 
-
 <details>
   <summary>📊 My Stats</summary>
   <div align="center">
@@ -56,13 +54,12 @@ I'm passionate about solving real-world problems with data. Currently studying D
 <details>
   <summary>📂 My Repositories</summary>
   
-  - 🔗 [**Degrees of Separation**](https://github.com/LucaWBohnenberger/Degrees-of-separation) : Graph algorithms for connection discovery 
-  - 📎 [**PageRank**](https://github.com/LucaWBohnenberger/PageRank): Ranking entities with Markov Chains
-  - 🤖 [**ChatFinance**](https://github.com/LucaWBohnenberger/ChatFinance): Chatbot project using OpenAI, capable of retrieving financial data for assets like PETR4.
+  - 🔗 [**Degrees of Separation**](https://github.com/LucaWBohnenberger/Degrees-of-separation){:target="_blank"} : Graph algorithms for connection discovery 
+  - 📎 [**PageRank**](https://github.com/LucaWBohnenberger/PageRank){:target="_blank"}: Ranking entities with Markov Chains
+  - 🤖 [**ChatFinance**](https://github.com/LucaWBohnenberger/ChatFinance){:target="_blank"}: Chatbot project using OpenAI, capable of retrieving financial data for assets like PETR4.
 </details>
 
 ---
 
-> 🧠 *Always learning, always building.*
->  
+> 🧠 *Always learning, always building.*  
 > ✨ Fun fact: My GitHub is powered by late-night ideas.
