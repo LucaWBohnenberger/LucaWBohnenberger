@@ -6,7 +6,7 @@
 ![waves](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0077B5&height=120&section=header&text=Welcome%20to%20my%20profile!&fontSize=30&fontAlign=50&animation=fadeIn)
 
 [![Website](https://img.shields.io/badge/Website-lucawb.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lucawb.com)
-[![Blog](https://img.shields.io/badge/Blog-My_Notes_&_Studies-2ea44f?style=for-the-badge&logo=bookstack&logoColor=white)]((https://deeplynoted.net))
+[![Blog](https://img.shields.io/badge/Blog-My_Notes_&_Studies-2ea44f?style=for-the-badge&logo=bookstack&logoColor=white)](https://deeplynoted.net)
 [![Email](https://img.shields.io/badge/Email-l.bohnenberger002@edu.pucrs.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.bohnenberger002@edu.pucrs.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luca%20W.B.-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-wolffenb%C3%BCttel-bohnenberger-786016318/)
 
